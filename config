@@ -1,0 +1,6 @@
+Host github.com
+HostName ssh.github.com
+Port 443
+User git
+IdentityFIle C:/Users/JITHIN/.ssh/mykey
+IdentitiesOnly yes
